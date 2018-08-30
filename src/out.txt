@@ -1,0 +1,7 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ryan/Documents/game_life_net/Game-of-life-CUDA/src/build
+Scanning dependencies of target tests
+[ 20%] Building CXX object CMakeFiles/tests.dir/CudaLifeTests/src/BenchmarkTests.cpp.o
+[ 40%] Linking CXX executable ../bin/tests
+[100%] Built target tests
